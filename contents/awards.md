@@ -1,16 +1,13 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+#### Scholarships
+- Hebei University of Technology Scholarship, 2017,2018,2019,2020.
 
-- National Scholarship for Graduate Student, 2024.
+#### Competitions and Activities
+- Student Innovation Award: “Research on Double-Deck Deformed Bridge for Traffic Congestion Relief”
+- Second Prize of Hebei Province Engineering Survey Industry
+- Third Prize of Hebei Province Surveying and Mapping Science
 
-- First-Prize Scholarship (CUMT), 2024.
+#### Honorary Titles
+- Outstanding Graduate, Hebei University of Technology
+- Outstanding Student Council President
 
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.

@@ -10910,5 +10910,29 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 
+#home-subtitle {
+    font-size: 40px;    
+    color: #003366;     
+    font-weight: 600;   
+    font-family: "Times New Roman", Times, serif;
+}
 
+#home-subtitle-2 {
+    font-size: 30px;
+    color: #003366;
+    font-weight: normal;
+    font-family: "Times New Roman", Times, serif;
+}
 
+#home .cv-link {
+  font-size: 0.1rem;
+  color: #666666;
+  margin-top: 2px;
+}
+
+.pub-img {
+  max-width: 400px;     
+  max-height: 300px;    
+  object-fit: contain;
+  margin: 5px;
+}

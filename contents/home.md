@@ -1,17 +1,27 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+If you are interested in me, you can download my resume here:[Download CV](static/assets/CV_SIJIE%20LIU.pdf)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+
+#### Bio
+
+I am a Ph.D. student in the Department of Civil and Environmental Engineering at Old Dominion University, advised by [Professor Qing Tang](https://sites.google.com/view/qingtang).  
+My research focuses on developing trustworthy end-to-end AI models and simulation approaches in the field of autonomous and connected vehicles.  
+Before coming ODU, I worked at a leading design institute in China, where I gained three years of experience in transportation consulting and simulation. I hold an M.Sc. degree from the University of Manchester in the UK and a B.Eng. degree from Hebei University of Technology in China.
+
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: sliu006@odu.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Urban Design and International Planning, 2021-2022. UK.\
+B.E., Civil Engineering,  2016-2020. China.
+
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Connected and Automated Vehicle Simulation.\
+Urban Transportation Data Analysis.\
+Trustworthy End-to-End Artificial Intelligence Approaches.
 
