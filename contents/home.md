@@ -1,6 +1,7 @@
 
 
-If you are interested in me, you can download my resume here:[Download CV](static/assets/CV_SIJIE%20LIU.pdf)
+If you are interested in me, you can download my resume here: <a href="static/assets/CV_SIJIE%20LIU.pdf" download>Download Resume</a>
+
 
 
 #### Bio
