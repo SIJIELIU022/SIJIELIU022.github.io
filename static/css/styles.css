@@ -10936,3 +10936,8 @@ footer a:hover, footer a:active, footer a:focus {
   object-fit: contain;
   margin: 5px;
 }
+
+.patent-desc {
+    margin-top: 10px;   /* 上边距，调大一点就能拉开距离 */
+    line-height: 1.6;   /* 行距更舒适 */
+}
