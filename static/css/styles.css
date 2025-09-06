@@ -10938,6 +10938,34 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .patent-desc {
-    margin-top: 10px;   /* 上边距，调大一点就能拉开距离 */
-    line-height: 1.6;   /* 行距更舒适 */
+    margin-top: 10px;   
+    line-height: 1.6;   
+}
+
+
+.bio-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);  /* 一行四列 */
+  gap: 15px;                              /* 图片之间的间距，可以自己调 */
+  max-width: 1200px;                      /* 最大宽度 */
+  margin: 24px auto;                      /* 居中并与上方文字拉开距离 */
+}
+
+.bio-photo-grid img {
+  width: 100%;        /* 自动撑满所在格子 */
+  height: auto;       /* 保持比例 */
+  border-radius: 6px; /* 可选：圆角 */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); /* 可选：阴影 */
+}
+
+/* 小屏幕时自动变成两列或一列 */
+@media (max-width: 1024px) {
+  .bio-photo-grid {
+    grid-template-columns: repeat(2, 1fr); /* 平板两列 */
+  }
+}
+@media (max-width: 640px) {
+  .bio-photo-grid {
+    grid-template-columns: 1fr; /* 手机单列 */
+  }
 }
